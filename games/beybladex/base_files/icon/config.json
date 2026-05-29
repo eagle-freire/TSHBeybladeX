@@ -1,0 +1,20 @@
+{
+  "prefix": "",
+  "postfix": "",
+  "type": [
+    "icon"
+  ],
+  "version": "27.05.2026",
+  "uncropped_edge": [
+    "u",
+    "d",
+    "l",
+    "r"
+  ],
+  "average_size": {
+    "x": 1000,
+    "y": 1000
+  },
+  "eyesights": {
+}
+}

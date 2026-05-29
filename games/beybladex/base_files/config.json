@@ -1,0 +1,504 @@
+{
+  "character_to_codename": {
+    "DranSword": {
+      "codename": "dransword",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "HellsScythe": {
+      "codename": "hellsscythe",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "WizardArrow": {
+      "codename": "wizardarrow",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "KnightShield": {
+      "codename": "knightshield",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "KnightLance": {
+      "codename": "knightlance",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "SharkEdge": {
+      "codename": "sharkedge",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "CobaltDrake": {
+      "codename": "cobaltdrake",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "LeonClaw": {
+      "codename": "leonclaw",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "ViperTail": {
+      "codename": "vipertail",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "RhinoHorn": {
+      "codename": "rhinohorn",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "DranDagger": {
+      "codename": "drandagger",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "HellsChain": {
+      "codename": "hellschain",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "PhoenixWing": {
+      "codename": "phoenixwing",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "WyvernGale": {
+      "codename": "wyverngale",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "PhoenixFeather": {
+      "codename": "phoenixfeather",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "UnicornSting": {
+      "codename": "unicornsting",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "SphinxCowl": {
+      "codename": "sphinxcowl",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "WeissTiger": {
+      "codename": "weisstiiger",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "CobaltDragoon": {
+      "codename": "cobaltdragoon",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "BlackShell": {
+      "codename": "blackshell",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "WhaleWave": {
+      "codename": "whalewave",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "CrimsonGaruda": {
+      "codename": "crimsongaruda",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "TriceraPress": {
+      "codename": "tricerapress",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "SamuraiCaliber": {
+      "codename": "samuraicaliber",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "TyrannoRoar": {
+      "codename": "tyrannoroar",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "DranzerSpiral": {
+      "codename": "dranzersspiral",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "AeroPegasus": {
+      "codename": "aeropegasus",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "WyvernHover": {
+      "codename": "wyvernhover",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "DranBuster": {
+      "codename": "dranbuster",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "HellsHammer": {
+      "codename": "hellshammer",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "WizardRod": {
+      "codename": "wizardrod",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "ShinobiShadow": {
+      "codename": "shinobishadow",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "LeonCrest": {
+      "codename": "leoncrest",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "PhoenixRudder": {
+      "codename": "phoenixrudder",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "SilverWolf": {
+      "codename": "silverwolf",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "SamuraiSaber": {
+      "codename": "samuraisaber",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "KnightMail": {
+      "codename": "knightmail",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "ImpactDrake": {
+      "codename": "impactdrake",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "GhostCircle": {
+      "codename": "ghostcircle",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "GolemRock": {
+      "codename": "golemrock",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "ScorpioSpear": {
+      "codename": "scorpiospear",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "SharkScale": {
+      "codename": "sharkscale",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "ClockMirage": {
+      "codename": "clockmirage",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "MeteorDragoon": {
+      "codename": "meteordragoon",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "MummyCurse": {
+      "codename": "mummycurse",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Volt": {
+      "codename": "volt",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Brave": {
+      "codename": "brave",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Arc": {
+      "codename": "arc",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Dark": {
+      "codename": "dark",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Reaper": {
+      "codename": "reaper",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Brush": {
+      "codename": "brush",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Blast": {
+      "codename": "blast",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Flame": {
+      "codename": "flame",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Eclipse": {
+      "codename": "eclipse",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Hunt": {
+      "codename": "hunt",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Might": {
+      "codename": "might",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Flare": {
+      "codename": "flare",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Blitz": {
+      "codename": "blitz",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Fortress": {
+      "codename": "fortress",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Rage": {
+      "codename": "rage",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Delta": {
+      "codename": "delta",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    },
+    "Whip": {
+      "codename": "whip",
+      "skin_name": {
+        "0": {
+          "name": "Default"
+        }
+      }
+    }
+  },
+  "name": "Beyblade X",
+  "description": "Blades",
+  "credits": "from https://beyblade.fandom.com/ by dokebu",
+  "version": "27.05.2026"
+}
